@@ -39,7 +39,7 @@ Exchanges confirmed working by the community:
 - [X] [Bitvavo](https://bitvavo.com/)
 - [X] [Kukoin](https://www.kucoin.com/)
 
-## Documentation
+### Documentation
 
 We invite you to read the bot documentation to ensure you understand how the bot is working.
 
